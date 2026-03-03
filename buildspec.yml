@@ -23,5 +23,7 @@ artifacts:
     - target/devops-web-project.war
     - appspec.yml
     - scripts/**/*
+    - target/**/*.war
+    - target/**/*.jar
   discard-paths: no
 
